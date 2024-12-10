@@ -61,5 +61,6 @@ int main()
 // Output
 // For each test case output one integer: the largest minimum distance.
 
-
 // https://www.spoj.com/problems/AGGRCOW/
+
+//Psudocode / Steps
