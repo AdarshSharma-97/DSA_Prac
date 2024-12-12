@@ -45,7 +45,7 @@ void printArray(vector<int> &arr, int n)
 }
 int main()
 {
-    
+    // Brutforce1 : sort(nums.begin(),nums.end());
 
     vector<int> nums = {2, 0, 2, 1, 1, 0};
     int n = nums.size();
