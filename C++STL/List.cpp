@@ -21,5 +21,7 @@ int main()
         cout << val << " ";
     }
     cout << endl;
+    /// Random value is not  accessiable
+    // cout << l[2] << endl;
     return 0;
 }
