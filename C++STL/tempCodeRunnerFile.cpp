@@ -1,6 +1,4 @@
-  // vector<int>::reverse_iterator it2;
-
-    // for (it2 = vec.rbegin(); it2 != vec.rend(); it2++)
-    // {
-    //     cout << *(it) << " ";
-    // }
+s.insert(4);
+    s.insert(5);
+    s.insert(6);
+    s.insert(7);
