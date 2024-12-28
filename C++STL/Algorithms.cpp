@@ -49,5 +49,11 @@ int main()
 
     cout << s << endl;
 
+    cout << *(min_element(vec.begin(), vec.end())) << endl;
+    cout << *(max_element(vec.begin(), vec.end())) << endl;
+    cout << binary_search(vec.begin(), vec.end(), 9) << endl;
+    cout << __builtin_popcount(9) << endl;
+    cout << __builtin_popcountl(9000) << endl;
+    cout << __builtin_popcountll(436799) << endl;
     return 0;
 }
