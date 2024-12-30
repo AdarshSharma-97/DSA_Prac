@@ -12,5 +12,15 @@ int main()
     // cin >> str2; //if use cin for an scentance it will delete text after first space
     cin.getline(str2, 100, '$');
     cout << "Output of str : " << str2 << endl;
+
+    char st[] = "Happy New Year";
+    int len = 0;
+
+    for (int i = 0; i < st[i] != '\0'; i++)
+    {
+        len++;
+    }
+
+    cout << "Length of String : " << len << endl;
     return 0;
 }
